@@ -1,0 +1,7 @@
+<h2 class="text-center">Edit Task</h2>
+<div class="container d-flex justify-content-center">
+  <div class="card p-4 mt-4 shadow-sm" style="width: 500px;">
+    <%= render 'form', task: @task %>
+    <%= link_to 'Back', tasks_path, class: 'btn btn-secondary mt-3' %>
+  </div>
+</div>
