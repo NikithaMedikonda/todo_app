@@ -27,8 +27,8 @@ Users can register/login, create tasks, mark them as completed, filter them by d
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/NikithaMedikonda/todo_app.git
+    cd todo_app
 
 ### 2. Install dependencies
     bundle install
